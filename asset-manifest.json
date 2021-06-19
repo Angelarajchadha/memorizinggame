@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/memorizinggame/static/css/main.22d3039a.chunk.css",
-    "main.js": "/memorizinggame/static/js/main.acbb688a.chunk.js",
-    "main.js.map": "/memorizinggame/static/js/main.acbb688a.chunk.js.map",
+    "main.js": "/memorizinggame/static/js/main.54c86d48.chunk.js",
+    "main.js.map": "/memorizinggame/static/js/main.54c86d48.chunk.js.map",
     "runtime-main.js": "/memorizinggame/static/js/runtime-main.08497893.js",
     "runtime-main.js.map": "/memorizinggame/static/js/runtime-main.08497893.js.map",
     "static/js/2.edefae4e.chunk.js": "/memorizinggame/static/js/2.edefae4e.chunk.js",
@@ -57,6 +57,6 @@
     "static/js/runtime-main.08497893.js",
     "static/js/2.edefae4e.chunk.js",
     "static/css/main.22d3039a.chunk.css",
-    "static/js/main.acbb688a.chunk.js"
+    "static/js/main.54c86d48.chunk.js"
   ]
 }
