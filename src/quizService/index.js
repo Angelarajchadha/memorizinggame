@@ -145,8 +145,8 @@ const qBank = [
       },
       {
         question: "Which of the following from below is dance form of the Arunachal Pradesh? ",
-        answers: ["Nicobari Dance", "Jhumra","Aji Lamu","Jhora"],
-        correct: "Aji Lamu",
+        answers: ["Nicobari Dance", "Bihu","Aji Lamu","Jhora"],
+        correct: "Bihu",
         questionId: "3005",
       },
     ],
@@ -248,7 +248,7 @@ const qBank = [
       {
         question: "Which of  The following is the Neighboring State Of Chandigarh?  ",
         answers: ["New Delhi","Haryana","Tripura", "Kohima"],
-        correct: "CHaryana",
+        correct: "Haryana",
         questionId: "6003",
       },
       {
@@ -439,7 +439,7 @@ const qBank = [
       {
         question: "Which are The Neighboring State Of Gujarat?  ",
         answers: ["Rajasthan and Maharashtra","Rajasthan and Haryana","Maharashtra and Chandigarh", "Kohima and Raipur"],
-        correct: "Chandigarh",
+        correct: "Rajasthan and Maharashtra",
         questionId: "11003",
       },
       {
@@ -450,7 +450,7 @@ const qBank = [
       },
       {
         question: "What is the population of Gujarat ?  ",
-        answers: ["12 thousand", "6 lakh 85 thousand","6 crore 85 lakhs", "9 thousand",],
+        answers: ["12 thousand", "6 lakh 85 thousand","6 crore 4 lakhs", "9 thousand",],
         correct: "6 crore 85 lakhs",
         questionId: "11005",
       },
@@ -481,7 +481,7 @@ const qBank = [
         questionId: "12003",
       },
       {
-        question: "Is Capital of Haryana, Gurugoan/Gurugram ",
+        question: "Is Capital of Haryana, Gurugoan? ",
         answers: ["True", "False"],
         correct: "False",
         questionId: "12004",
@@ -502,7 +502,7 @@ const qBank = [
     questions: [
       {
         question: "Which Is The Neighboring State Of Himachal Pradesh? ",
-        answers: ["Uttarakhand and Haryana", "Chandigarh and Punjab","Jammu And Kashmir"," Uttarakhand and Uttar Pradesh"],
+        answers: ["Uttarakhand and Haryana", "Chandigarh and Punjab","Jammu And Kashmir and Leh Ladakh"," Uttarakhand and Uttar Pradesh"],
         correct: "Uttarakhand and Haryana",
         questionId: "13001",
       },
@@ -557,7 +557,7 @@ const qBank = [
         questionId: "14003",
       },
       {
-        question: "Is Gir National Park a Torist Attraction in Jharkhand?  ",
+        question: "Is Gir National Park a Tourist Attraction in Jharkhand?  ",
         answers: ["True", "False"],
         correct: "False",
         questionId: "14004",
@@ -565,7 +565,7 @@ const qBank = [
       {
       question: "What is the population of Jharkhand ?  ",
       answers: ["3 crore 12 thousand", "1 crore 6 lakh 85 thousand","3 crore 29 lakhs", "9 thousand",],
-      correct: "3 crore 22 lakhs",
+      correct: "3 crore 29 lakhs",
       questionId: "14005",
     },
     ],
@@ -577,7 +577,7 @@ const qBank = [
     },
     questions: [
       {
-        question: " Is Jammu and Kashmir is the largest producer of salt ",
+        question: " Is Jammu and Kashmir is the largest producer of salt? ",
         answers: ["True", "False"],
         correct: "False",
         questionId: "15001",
@@ -602,8 +602,8 @@ const qBank = [
       },
       {
         question: "Which of the following from below is dance form of Jammu and Kashmir? ",
-        answers: ["Rauf", "Jhumar","Rangma","Shondol"],
-        correct: "Rauf",
+        answers: ["Rouf", "Jhumar","Rangma","Shondol"],
+        correct: "Rouf",
         questionId: "15005",
       },
     ],
@@ -654,8 +654,8 @@ const qBank = [
     questions: [
       {
         question: "What Is The Capital Of Kerala?  ",
-        answers: ["Pathanamthitta", "Thiruvanantpuram","Kozhikode","JWayanadu"],
-        correct: "Thiruvanantpuram",
+        answers: ["Pathanamthitta", "Thiruvananthapuram","Kozhikode","JWayanadu"],
+        correct: "Thiruvananthapuram",
         questionId: "17001",
       },
       {
@@ -698,8 +698,8 @@ const qBank = [
       },
       {
         question: "Which Is The a Tourist Attractions In Ladakh?  ",
-        answers: ["Kalpeni", "Pangongtso Lake","Bodhgaya", "Gulmarg"],
-        correct: "Pangongtso Lake",
+        answers: ["Kalpeni", "Pangong Tso Lake","Bodhgaya", "Gulmarg"],
+        correct: "Pangong Tso Lake",
         questionId: "18002",
       },
       {
@@ -711,7 +711,7 @@ const qBank = [
       {
         question: "What Is The Official Language Of Ladakh?  ",
         answers: ["Hindi", "Kashmiri", "Punjabi", "Nepali"],
-        correct: "Nepali",
+        correct: "Hindi",
         questionId: "18004",
       },
       {
@@ -754,8 +754,8 @@ const qBank = [
       },
       {
         question: "What is the population of Lakshadweep ?  ",
-        answers: ["64 thousand", " 6 lakh 85 thousand","64 lakhs", "42thousand",],
-        correct: "3 crore 22 lakhs",
+        answers: ["64 thousand", " 6 lakh 85 thousand","64 lakhs", "42 thousand",],
+        correct: "64 thousand",
         questionId: "19005",
       },
     ],
@@ -894,8 +894,8 @@ const qBank = [
       },
       {
         question: "Which of the following is The Tourist Attractions In Meghalaya?   ",
-        answers: ["Secchip","Andro","Nohklikai Waterfall", "Kohima"],
-        correct: "Nohklikai Waterfall",
+        answers: ["Secchip","Andro","Nohkalikai Waterfall", "Kohima"],
+        correct: "Nohkalikai Waterfall",
         questionId: "23003",
       },
       {
@@ -906,8 +906,8 @@ const qBank = [
       },
       {
         question: "What is the population of Meghalaya ?  ",
-        answers: ["64 thousand", " 22 lakh 66 thousand","64 lakhs", " 2 lakh 42 thousand",],
-        correct: "22 lakh 66 thousand",
+        answers: ["64 thousand", " 29 lakh 66 thousand","64 lakhs", " 2 lakh 42 thousand",],
+        correct: "29 lakh 66 thousand",
         questionId: "23005",
       },
     ],
@@ -931,7 +931,7 @@ const qBank = [
         questionId: "24002",
       },
       {
-        question: "WWhat Is The Capital Of Mizoram?   ",
+        question: "What Is The Capital Of Mizoram?   ",
         answers: ["Aizwal","Kolkata","Bhubaneshwar", "Kohima"],
         correct: "Aizwal",
         questionId: "24003",
@@ -1241,7 +1241,7 @@ const qBank = [
         questionId: "32003",
       },
       {
-        question: "Telangana is only state that personifies food as gods ",
+        question: "Telangana is only state that personifies food as god ",
         answers: ["True", "False"],
         correct: "False",
         questionId: "32004",
