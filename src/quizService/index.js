@@ -1229,7 +1229,7 @@ const qBank = [
         questionId: "32001",
       },
       {
-        question: "What Is The Capital Of Telangana?   ",
+        question: "What Is The Official Language Of Telangana?   ",
         answers: ["Tamil", "Punjabi","Hindi", "Telugu"],
         correct: "Telugu",
         questionId: "32002",
